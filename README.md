@@ -10,3 +10,6 @@ git diff HEAD
 
 git remote add
 git remote add origin https://github.com/devandroidxyz/intro_git.git
+
+git push
+  git push origin master
