@@ -20,3 +20,4 @@ https://qiita.com/tmknom/items/c4bcebe17d25381fa45d
 例)
 gibo dump Java Android >> .gitignore
 
+test
